@@ -3,7 +3,7 @@
 
 # Criando o conteúdo do arquivo README.md conforme solicitado pelo usuário.
 
-readme_content = """
+readme_content = 
 # Lista Encadeada em C
 
 Este projeto implementa uma lista encadeada simples em C. 
@@ -29,7 +29,7 @@ Funções
 1. Imprimir Lista
 A função imprimeLista percorre a lista encadeada e imprime o valor de cada célula.
 
-c
+
 Sempre exibir os detalhes
 
 Copiar código
@@ -37,7 +37,7 @@ void imprimeLista(celula *inicio);
 2. Remover e Liberar Lista
 A função removeLista percorre a lista encadeada e remove cada célula, liberando a memória alocada.
 
-c
+
 Sempre exibir os detalhes
 
 Copiar código
